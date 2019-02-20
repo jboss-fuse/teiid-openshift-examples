@@ -6,7 +6,7 @@
 	<groupId>com.examples</groupId>
 	<artifactId>teiid-openshift-examples-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.0</version>
+	<version>1.0.0.fuse-730003</version>
 	<name>Teiid Openshift Examples Parent</name>
 	<description>OpenShift deployment based Teiid Examples</description>
 
