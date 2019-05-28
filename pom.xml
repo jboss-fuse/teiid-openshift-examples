@@ -6,7 +6,7 @@
   <groupId>com.examples</groupId>
   <artifactId>teiid-openshift-examples-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.3</version>
+  <version>1.0.3.fuse-731001</version>
   <name>Teiid Openshift Examples Parent</name>
   <description>OpenShift deployment based Teiid Examples</description>
 
@@ -20,7 +20,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <version.teiid>12.1.0</version.teiid>
+    <version.teiid>12.1.0.fuse-731001</version.teiid>
     <version.org.codehaus.mojo.exec.plugin>1.2.1</version.org.codehaus.mojo.exec.plugin>
   </properties>
 
