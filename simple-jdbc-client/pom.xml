@@ -6,7 +6,7 @@
   <parent>
     <groupId>com.example</groupId>
     <artifactId>teiid-openshift-examples-parent</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.0.fuse-740002</version>
   </parent>
 
   <groupId>com.example</groupId>
