@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>teiid-openshift-examples-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.2.0.fuse-750017</version>
+	<version>1.2.0.fuse-750017-redhat-00001</version>
 	<name>Teiid Openshift Examples Parent</name>
 	<description>OpenShift deployment based Teiid Examples</description>
 
@@ -20,9 +20,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<version.io.fabric8>3.0.11.fuse-750026</version.io.fabric8>
-        <version.teiid>13.0.0.fuse-750001</version.teiid>
-		<version.teiid.spring-boot>1.2.0.fuse-750025</version.teiid.spring-boot>
+		<version.io.fabric8>3.0.11.fuse-750027</version.io.fabric8>
+        <version.teiid>13.0.0.fuse-750001-redhat-00001</version.teiid>
+		<version.teiid.spring-boot>1.2.0.fuse-750025-redhat-00001</version.teiid.spring-boot>
 		<spring-boot.version>2.1.6.RELEASE</spring-boot.version>
 		<version.org.codehaus.mojo.exec.plugin>1.2.1</version.org.codehaus.mojo.exec.plugin>
 	</properties>
